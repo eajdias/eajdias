@@ -36,16 +36,16 @@ const emmanuel = {
 <div align="center">
 
 <a href="https://github.com/eajdias/envctl">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eajdias&repo=envctl&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=envctl&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/eajdias/messagebird_dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eajdias&repo=messagebird_dashboard&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=messagebird_dashboard&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/eajdias/MessageBird_API_Reports">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eajdias&repo=MessageBird_API_Reports&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=MessageBird_API_Reports&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/eajdias/FlowTrainerPro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=eajdias&repo=FlowTrainerPro&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=FlowTrainerPro&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -56,12 +56,10 @@ const emmanuel = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eajdias&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=eajdias&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=eajdias&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eajdias&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eajdias&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=eajdias&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
