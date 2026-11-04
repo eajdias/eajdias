@@ -70,3 +70,8 @@ const emmanuel = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+## 📫 Onde me achar
+
+- Site: [eajdias.github.io](https://eajdias.github.io)
+- GitHub: [@eajdias](https://github.com/eajdias)
