@@ -38,19 +38,19 @@ const emmanuel = {
 <a href="https://github.com/eajdias/envctl">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=envctl&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/eajdias/messagebird_dashboard">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=messagebird_dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/eajdias/MessageBird_API_Reports">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=MessageBird_API_Reports&theme=tokyonight&hide_border=true" />
-</a>
 <a href="https://github.com/eajdias/FlowTrainerPro">
   <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=FlowTrainerPro&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> 🔒 Also building in private: **zscan-omnichannel**, **zscan_mcp**, **zscan-chatbot** — the Zscan family (going multi-tenant).
+### 🔒 Família Zscan (repos privados)
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| **zscan-omnichannel** | Plataforma de suporte técnico e ouvidoria via webhooks MessageBird — BSC, auditoria, importação (sucessor dos dashboards MessageBird) | TypeScript · NestJS · Next.js · PostgreSQL |
+| **zscan_mcp** | Servidor MCP do ecossistema Zscan EVO — conecta LLMs aos produtos Zscan | Model Context Protocol |
+| **zscan-chatbot** | Chatbot comercial (Zoe Sigma): orquestração n8n, prompts e infra | n8n |
 
 ## 📊 Stats
 
