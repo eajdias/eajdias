@@ -33,16 +33,10 @@ const emmanuel = {
 
 ## 📌 Featured
 
-<div align="center">
-
-<a href="https://github.com/eajdias/envctl">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=envctl&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/eajdias/FlowTrainerPro">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=eajdias&repo=FlowTrainerPro&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[envctl](https://github.com/eajdias/envctl)** | Provisionador determinístico em Go: replicação 1:1 de ambientes dev e VPS como agentes autônomos de IA | Go · Docker |
+| **[FlowTrainerPro](https://github.com/eajdias/FlowTrainerPro)** | Simulador de pregão para treino de leitura de Order Flow no Mini Dólar (WDO), sem dinheiro real | TypeScript |
 
 ### 🔒 Família Zscan (repos privados)
 
