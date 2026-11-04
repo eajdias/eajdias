@@ -4,34 +4,34 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Developer+tools+in+Go;Omnichannel+systems+in+production;Python+reporting+%2B+analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ferramentas+dev+em+Go;Omnichannel+em+produ%C3%A7%C3%A3o;Relat%C3%B3rios+e+dados+em+Python)](https://git.io/typing-svg)
 
 </div>
 
-## 🎯 About Me
+## 🎯 Sobre mim
 
 ```typescript
 const emmanuel = {
-  handle: "@eajdias",
-  focus: ["developer tooling", "omnichannel customer systems", "data reporting"],
-  current: [
-    "envctl — CLI in Go that standardizes dev machines and turns VPS into agents",
-    "zscan-omnichannel — multi-channel support platform (private, going multi-tenant)",
+  usuario: "@eajdias",
+  foco: ["ferramentas de desenvolvimento", "atendimento omnichannel", "relatórios e dados"],
+  atual: [
+    "envctl — CLI em Go que padroniza máquinas dev e transforma VPS em agentes",
+    "zscan-omnichannel — plataforma de atendimento multicanal (privado, evoluindo para multi-empresa)",
   ],
   stack: ["Go", "TypeScript/NestJS", "Python/FastAPI", "PostgreSQL", "Docker"],
-  fact: "Profile README v2 — snake updates daily via GitHub Actions 🐍",
+  fato: "snake atualiza todo dia via GitHub Actions 🐍",
 };
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=go,ts,py,nestjs,postgres,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![Habilidades](https://skillicons.dev/icons?i=go,ts,py,nestjs,postgres,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## 📌 Featured
+## 📌 Destaques
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -46,7 +46,7 @@ const emmanuel = {
 | **zscan_mcp** | Servidor MCP do ecossistema Zscan EVO — conecta LLMs aos produtos Zscan | Model Context Protocol |
 | **zscan-chatbot** | Chatbot comercial (Zoe Sigma): orquestração n8n, prompts e infra | n8n |
 
-## 📊 Stats
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -57,13 +57,13 @@ const emmanuel = {
 
 </div>
 
-## 🐍 Contributions
+## 🐍 Contribuições
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eajdias/eajdias/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eajdias/eajdias/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/eajdias/eajdias/output/github-contribution-grid-snake.svg">
+    <img alt="snake comendo as contribuições" src="https://raw.githubusercontent.com/eajdias/eajdias/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
