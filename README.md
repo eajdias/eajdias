@@ -13,6 +13,7 @@
 |---|---|---|
 | **[envctl](https://github.com/eajdias/envctl)** | 1:1 replication of dev machines and VPSs; fleet orchestration with AI agents | Go · Docker |
 | **[FlowTrainerPro](https://github.com/eajdias/FlowTrainerPro)** | Order Flow trading simulator for the Mini Dollar (WDO) — practice tape reading with no real money | TypeScript · React |
+| **[docxforge](https://github.com/eajdias/docxforge)** | Forge styled DOCX from Markdown with any template (formal reports, light how-tos) | Python · DOCX |
 | **[glacier-thaw](https://github.com/eajdias/glacier-thaw)** | S3 Glacier restore pipeline with local admin/client UI | Python · AWS |
 | **[Outline-GDrive-Wiki](https://github.com/eajdias/Outline-GDrive-Wiki)** | Drive-backed wiki with search + citation chat (Outline + RAG) | TypeScript · Docker |
 
